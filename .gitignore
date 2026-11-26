@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+# Dados nao sao versionados (nuvens, planilhas e resultados de campo)
+*.e57
+*.las
+*.laz
+*.pts
+*.xlsx
+*.npz
+Nuvens/
+Resultados*/
+saidas/
+# Saidas da janela
+correcoes.json
+arvores_corrigidas.csv
+resumo_parcela.csv
+cena.png

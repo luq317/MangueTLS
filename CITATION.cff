@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Se usar este software, cite-o como abaixo."
+title: "MangueTLS: extração semiautomática de parâmetros estruturais de manguezal em nuvens de pontos TLS"
+version: 0.2.0
+date-released: 2026-11-26
+license: GPL-3.0-or-later
+repository-code: "https://github.com/luq317/MangueTLS"
+authors:
+  - family-names: "Silva Pereira"
+    given-names: "Lucas"
